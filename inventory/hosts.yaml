@@ -1,0 +1,11 @@
+---
+ host1.lab:
+   hostname: 192.168.100.129
+   port: 22
+   username: 'vyos'
+   password: 'vyos'
+   platform: 'vyos'
+   groups:
+     - 'lab'
+
+     
